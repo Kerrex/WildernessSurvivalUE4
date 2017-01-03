@@ -1,0 +1,1 @@
+../../../PrzetrwajZime/PrzetrwajZime.uproject  /Game/TopDownBP/Maps/TopDownExampleMap -Messaging -SessionId=88D7E5A64FEB83D5D4D13C8E88E9484B -SessionOwner="Tomek" -SessionName="Launch On Device" -iterative

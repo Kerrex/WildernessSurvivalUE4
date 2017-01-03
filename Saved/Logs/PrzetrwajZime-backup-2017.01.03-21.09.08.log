@@ -1,0 +1,1126 @@
+﻿Log file open, 12/26/16 11:59:13
+LogInit:Display: Running engine for game: PrzetrwajZime
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(1907888260) SRandInit(1907888260).
+LogTaskGraph: Started task graph with 5 named threads and 6 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.067403
+LogPluginManager: Loaded Plugin Paper2D, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin LiveEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/LiveEditor/LiveEditor.uplugin
+LogPluginManager: Loaded Plugin OSVR, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LiveEditorListenServer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/LiveEditorListenServer/LiveEditorListenServer.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with WinSSL
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.13-CL-3142249
+LogInit: Engine Version: 4.13.1-3142249+++UE4+Release-4.13
+LogInit: Compatible Engine Version: 4.13.0-3106830+++UE4+Release-4.13
+LogInit: Net CL: 3142249
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 5
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 6
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 12
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 4
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 0
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Sep 28 2016 02:12:12
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.13
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files (x86)/Epic Games/4.13/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2016.12.26-09.59.13:479][  0]LogInit: Selected Device Profile: [Windows]
+[2016.12.26-09.59.13:479][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2016.12.26-09.59.13:515][  0]LogInit: Computer: KOMPUTERTOMKA
+[2016.12.26-09.59.13:515][  0]LogInit: User: Tomek
+[2016.12.26-09.59.13:516][  0]LogInit: CPU Page size=65536, Cores=2
+[2016.12.26-09.59.13:516][  0]LogInit: High frequency timer resolution =2.338340 MHz
+[2016.12.26-09.59.13:516][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2016.12.26-09.59.13:516][  0]LogMemory: Platform Memory Stats for Windows
+[2016.12.26-09.59.13:516][  0]LogMemory: Process Physical Memory: 256.36 MB used, 256.36 MB peak
+[2016.12.26-09.59.13:516][  0]LogMemory: Process Virtual Memory: 259.71 MB used, 259.71 MB peak
+[2016.12.26-09.59.13:516][  0]LogMemory: Physical Memory: 4492.88 MB used, 8084.27 MB total
+[2016.12.26-09.59.13:516][  0]LogMemory: Virtual Memory: 621.42 MB used, 134217728.00 MB total
+[2016.12.26-09.59.13:575][  0]LogTextLocalizationManager: No translations for ('pl-PL') exist, falling back to 'en' for localization and internationalization data.
+[2016.12.26-09.59.14:314][  0]LogD3D11RHI: D3D11 adapters:
+[2016.12.26-09.59.14:380][  0]LogD3D11RHI:    0. 'NVIDIA GeForce 840M' (Feature Level 11_0)
+[2016.12.26-09.59.14:380][  0]LogD3D11RHI:       4037/0/4042 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2016.12.26-09.59.14:387][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics Family' (Feature Level 11_0)
+[2016.12.26-09.59.14:388][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2016.12.26-09.59.14:390][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2016.12.26-09.59.14:390][  0]LogD3D11RHI:       0/0/4042 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2016.12.26-09.59.14:390][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2016.12.26-09.59.14:395][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2016.12.26-09.59.14:395][  0]LogD3D11RHI:     GPU DeviceId: 0x1341 (for the marketing name, search the web for "GPU Device Id")
+[2016.12.26-09.59.14:395][  0]LogWindows: EnumDisplayDevices:
+[2016.12.26-09.59.14:395][  0]LogWindows:    0. 'Intel(R) HD Graphics Family' (P:1 D:1)
+[2016.12.26-09.59.14:396][  0]LogWindows:    1. 'Intel(R) HD Graphics Family' (P:0 D:0)
+[2016.12.26-09.59.14:396][  0]LogWindows:    2. 'Intel(R) HD Graphics Family' (P:0 D:0)
+[2016.12.26-09.59.14:396][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2016.12.26-09.59.14:396][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce 840M
+[2016.12.26-09.59.14:396][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2016.12.26-09.59.14:396][  0]LogD3D11RHI:      Driver Date: Unknown
+[2016.12.26-09.59.14:396][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2016.12.26-09.59.14:862][  0]LogD3D11RHI: Async texture creation enabled
+[2016.12.26-09.59.14:880][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2016.12.26-09.59.14:880][  0]LogShaderCompilers: Guid format shader working directory is 15 characters bigger than the processId version (D:/UnrealProjects/PrzetrwajZime/Intermediate/Shaders/WorkingDirectory/9908/).
+[2016.12.26-09.59.14:881][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Tomek/AppData/Local/Temp/UnrealShaderWorkingDir/9665CF4C4A03887FF0EF80B7FF87A0C2/'.
+[2016.12.26-09.59.14:881][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2016.12.26-09.59.16:200][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2016.12.26-09.59.16:210][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2016.12.26-09.59.16:220][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2016.12.26-09.59.16:232][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2016.12.26-09.59.16:242][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2016.12.26-09.59.16:251][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2016.12.26-09.59.16:259][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2016.12.26-09.59.16:268][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2016.12.26-09.59.16:276][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2016.12.26-09.59.16:284][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2016.12.26-09.59.16:293][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2016.12.26-09.59.16:308][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2016.12.26-09.59.16:308][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2016.12.26-09.59.16:310][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2016.12.26-09.59.16:331][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2016.12.26-09.59.16:338][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2016.12.26-09.59.16:346][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2016.12.26-09.59.16:354][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2016.12.26-09.59.16:362][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2016.12.26-09.59.16:370][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2016.12.26-09.59.16:370][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2016.12.26-09.59.16:608][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2016.12.26-09.59.16:698][  0]LogDerivedDataCache: Loaded boot cache 0.09s 62MB C:/Users/Tomek/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2016.12.26-09.59.16:698][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/Tomek/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc
+[2016.12.26-09.59.16:698][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/UnrealProjects/PrzetrwajZime/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2016.12.26-09.59.16:698][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2016.12.26-09.59.16:698][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/UnrealProjects/PrzetrwajZime/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2016.12.26-09.59.16:698][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2016.12.26-09.59.16:720][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2016.12.26-09.59.16:732][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Tomek/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2016.12.26-09.59.18:679][  0]LogInit: Selected Device Profile: [Windows]
+[2016.12.26-09.59.18:682][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2016.12.26-09.59.18:818][  0]LogMeshUtilities: No automatic mesh reduction module available
+[2016.12.26-09.59.18:818][  0]LogMeshUtilities: No automatic mesh merging module available
+[2016.12.26-09.59.18:818][  0]LogMeshUtilities: No distributed automatic mesh merging module available
+[2016.12.26-09.59.18:913][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2016.12.26-09.59.19:304][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3106830, ProjectName: przetrwajzime, ProjectVersion: , EngineNetworkVersion: 1, GameNetworkVersion: 0, NetworkChecksum: 1251088603
+[2016.12.26-09.59.19:349][  0]LogAssetRegistry: FAssetRegistry took 0.0221 seconds to start up
+[2016.12.26-09.59.19:402][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 1 prioritized culture(s) in 0.049424 seconds
+[2016.12.26-09.59.19:409][  0]LogUObjectArray: 29778 objects as part of root set at end of initial load.
+[2016.12.26-09.59.19:409][  0]LogUObjectAllocator: 6125448 out of 0 bytes used by permanent object pool.
+[2016.12.26-09.59.19:409][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2016.12.26-09.59.19:420][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2016.12.26-09.59.20:479][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2016.12.26-09.59.20:479][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2016.12.26-09.59.21:263][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2016.12.26-09.59.21:285][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2016.12.26-09.59.21:775][  0]SourceControl: Info Source control is disabled
+[2016.12.26-09.59.21:827][  0]SourceControl: Info Source control is disabled
+[2016.12.26-09.59.21:873][  0]SourceControl: Info Source control is disabled
+[2016.12.26-09.59.21:885][  0]SourceControl: Info Source control is disabled
+[2016.12.26-09.59.22:434][  0]LogEngine: Initializing Engine...
+[2016.12.26-09.59.22:434][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2016.12.26-09.59.22:656][  0]LogAIModule: Creating AISystem for world Untitled
+[2016.12.26-09.59.22:664][  0]LogInit: XAudio2 using 'Głośniki (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2016.12.26-09.59.22:709][  0]LogInit: FAudioDevice initialized.
+[2016.12.26-09.59.22:749][  0]LogDerivedDataCache: Saved boot cache 0.04s 62MB C:/Users/Tomek/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2016.12.26-09.59.22:763][  0]LogInit: Texture streaming: Enabled
+[2016.12.26-09.59.22:826][  0]LogInit: Transaction tracking system initialized
+[2016.12.26-09.59.22:961][  0]BlueprintLog: New page: Editor Load
+[2016.12.26-09.59.23:170][  0]LocalizationService: Info Localization service is disabled
+[2016.12.26-09.59.23:323][  0]LogConsoleResponse:Display: 
+[2016.12.26-09.59.23:530][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2016.12.26-09.59.23:530][  0]LogCook:Display: Mobile HDR setting 1
+[2016.12.26-09.59.23:763][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProjects/PrzetrwajZime/Content/' took 0.03s
+[2016.12.26-09.59.23:763][  0]SourceControl: Info Source control is disabled
+[2016.12.26-09.59.23:763][  0]Cmd: MAP LOAD FILE="D:/UnrealProjects/PrzetrwajZime/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.12.26-09.59.23:812][  0]LightingResults: New page: Lighting Build
+[2016.12.26-09.59.23:816][  0]MapCheck: New page: Map Check
+[2016.12.26-09.59.23:816][  0]LightingResults: New page: Lighting Build
+[2016.12.26-09.59.31:138][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2016.12.26-09.59.31:175][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.12.26-09.59.31:225][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.12.26-09.59.31:284][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 58.758ms to complete.
+[2016.12.26-09.59.31:284][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 7.521
+[2016.12.26-09.59.31:818][  0]LogCollectionManager: Loaded 1 collections in 0.029859 seconds
+[2016.12.26-09.59.31:952][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProjects/PrzetrwajZime/Saved/Collections/' took 0.01s
+[2016.12.26-09.59.31:952][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProjects/PrzetrwajZime/Content/Developers/Tomek/Collections/' took 0.01s
+[2016.12.26-09.59.31:952][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProjects/PrzetrwajZime/Content/Collections/' took 0.01s
+[2016.12.26-09.59.31:952][  0]LogCollectionManager: Rebuilt the GUID cache for 1 collections in 0.000008 seconds
+[2016.12.26-09.59.31:952][  0]LogCollectionManager: Rebuilt the hierarchy cache for 1 collections in 0.000000 seconds
+[2016.12.26-09.59.31:968][  0]LogContentBrowser: Native class hierarchy populated in 0.0121 seconds. Added 2141 classes and 415 folders.
+[2016.12.26-09.59.31:980][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2016.12.26-09.59.31:980][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2016.12.26-09.59.31:981][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0005 seconds. Added 12 classes and 0 folders.
+[2016.12.26-09.59.32:002][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2016.12.26-09.59.33:409][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2016.12.26-09.59.33:462][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2016.12.26-09.59.34:247][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2016.12.26-09.59.34:341][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2016.12.26-09.59.34:371][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2016.12.26-09.59.34:371][  0]LogLoad: (Engine Initialization) Total time: 22.68 seconds
+[2016.12.26-09.59.34:371][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.46 seconds
+[2016.12.26-09.59.34:371][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2016.12.26-09.59.34:371][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2016.12.26-09.59.34:389][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.12.26-09.59.34:389][  0]LogOcInput: OculusInput pre-init called
+[2016.12.26-09.59.34:520][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2016.12.26-09.59.35:289][  0]LogRenderer: Reallocating scene render targets to support 1208x576 (Frame:2).
+[2016.12.26-09.59.35:656][  3]LogAssetRegistry: Asset discovery search completed in 16.3285 seconds
+[2016.12.26-09.59.35:656][  3]LogCollectionManager: Rebuilt the object cache for 1 collections in 0.000023 seconds (found 0 objects)
+[2016.12.26-09.59.35:656][  3]LogCollectionManager: Fixed up redirectors for 1 collections in 0.000047 seconds (updated 0 objects)
+[2016.12.26-09.59.45:743][345]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2016.12.26-09.59.45:743][345]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.26-09.59.45:836][345]PIE: New page: PIE session: TopDownExampleMap (Dec 26, 2016, 1:59:45 PM)
+[2016.12.26-09.59.45:836][345]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_1_TopDownExampleMap
+[2016.12.26-09.59.45:869][345]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033156s)
+[2016.12.26-09.59.45:870][345]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2016.12.26-09.59.45:871][345]LogPlayLevel: PIE: World Init took: (0.001346s)
+[2016.12.26-09.59.45:871][345]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_1_TopDownExampleMap.TopDownExampleMap (0.034922s)
+[2016.12.26-09.59.45:962][345]LogWorld: Game class is 'TopDownGameMode_C'
+[2016.12.26-09.59.46:020][345]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_1_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2016.12.26-11.59.46
+[2016.12.26-09.59.46:036][345]LogWorld: Bringing up level for play took: 0.004045
+[2016.12.26-09.59.46:049][345]LogInit: WinSock: Socket queue 131072 / 131072
+[2016.12.26-09.59.46:052][345]LogInit: WinSock: I am KOMPUTERTOMKA (169.254.157.124:0)
+[2016.12.26-09.59.46:052][345]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2016.12.26-09.59.46:052][345]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 7777
+[2016.12.26-09.59.46:052][345]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.26-09.59.46:052][345]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.26-09.59.46:052][345]PIE: Info Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_1_TopDownExampleMap 0.229
+[2016.12.26-09.59.46:053][345]PIE: New page: PIE session: TopDownExampleMap (Dec 26, 2016, 1:59:46 PM)
+[2016.12.26-09.59.46:057][345]LogInit: XAudio2 using 'Głośniki (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2016.12.26-09.59.46:071][345]LogInit: FAudioDevice initialized.
+[2016.12.26-09.59.46:146][345]LogNet: Browse: 127.0.0.1//Game/TopDownBP/Maps/TopDownExampleMap
+[2016.12.26-09.59.46:146][345]LogInit: WinSock: Socket queue 32768 / 32768
+[2016.12.26-09.59.46:147][345]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2016.12.26-09.59.46:160][345]LogNet: Game client on port 7777, rate 10000
+[2016.12.26-09.59.46:160][345]LogNetVersion: GetLocalNetworkVersion: CL: 3106830, ProjectName: przetrwajzime, ProjectVersion: 1.0.0.0, EngineNetworkVersion: 1, GameNetworkVersion: 0, NetworkChecksum: 2582509424
+[2016.12.26-09.59.46:160][345]LogNet: UPendingNetGame::InitNetDriver: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_1, IsServer: NO, PC: NULL, Owner: NULL
+[2016.12.26-09.59.46:177][345]PIE: Info Play in editor start time for /Game/TopDownBP/Maps/TopDownExampleMap 0.353
+[2016.12.26-09.59.46:182][345]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2016.12.26-09.59.46:183][345]LogHandshake: SendConnectChallenge. Timestamp: 0.016667, Cookie: 255222093053023130077174245135023001205091204115147135103199
+[2016.12.26-09.59.46:192][345]LogHandshake: SendChallengeResponse. Timestamp: 0.016667, Cookie: 255222093053023130077174245135023001205091204115147135103199
+[2016.12.26-09.59.46:303][346]LogNet: Server accepting post-challenge connection from: 127.0.0.1:57699
+[2016.12.26-09.59.46:304][346]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2016.12.26-09.59.46:304][346]LogNet: NotifyAcceptedConnection: Name: TopDownExampleMap, TimeStamp: 12/26/16 11:59:46, [UNetConnection] RemoteAddr: 127.0.0.1:57699, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL
+[2016.12.26-09.59.46:304][346]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:57699, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL
+[2016.12.26-09.59.46:350][348]LogNet: NotifyAcceptingChannel Control 0 server World /Game/TopDownBP/Maps/UEDPIE_1_TopDownExampleMap.TopDownExampleMap: Accepted
+[2016.12.26-09.59.46:364][348]LogNet: Remote platform little endian=1
+[2016.12.26-09.59.46:364][348]LogNet: This platform little endian=1
+[2016.12.26-09.59.46:384][349]LogNet: Login request: /Game/TopDownBP/Maps/TopDownExampleMap userId: Invalid
+[2016.12.26-09.59.46:385][349]LogNet: Welcomed by server (Level: /Game/TopDownBP/Maps/UEDPIE_1_TopDownExampleMap, Game: /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C)
+[2016.12.26-09.59.46:385][349]LogLoad: LoadMap: 127.0.0.1//Game/TopDownBP/Maps/UEDPIE_1_TopDownExampleMap?game=/Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C
+[2016.12.26-09.59.46:425][349]Cmd: MEM
+[2016.12.26-09.59.46:492][349]LogMemory: Platform Memory Stats for Windows
+[2016.12.26-09.59.46:492][349]LogMemory: Process Physical Memory: 1043.20 MB used, 1046.53 MB peak
+[2016.12.26-09.59.46:492][349]LogMemory: Process Virtual Memory: 1620.54 MB used, 1620.55 MB peak
+[2016.12.26-09.59.46:492][349]LogMemory: Physical Memory: 4427.14 MB used, 8084.27 MB total
+[2016.12.26-09.59.46:492][349]LogMemory: Virtual Memory: 2371.34 MB used, 134217728.00 MB total
+[2016.12.26-09.59.46:492][349]LogMemory: 
+[2016.12.26-09.59.46:492][349]Allocator Stats for TBB: (not implemented)
+[2016.12.26-09.59.46:521][349]LogWorld: PIE: Copying PIE streaming level from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_2_TopDownExampleMap.TopDownExampleMap. OwningWorld: <null>
+[2016.12.26-09.59.46:522][349]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2016.12.26-09.59.46:529][349]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_2_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2016.12.26-11.59.46
+[2016.12.26-09.59.46:529][349]LogWorld: Bringing up level for play took: 0.005332
+[2016.12.26-09.59.46:530][349]LogLoad: Took 0.144337 seconds to LoadMap(/Game/TopDownBP/Maps/UEDPIE_1_TopDownExampleMap)
+[2016.12.26-09.59.46:582][350]LogRenderer: Reallocating scene render targets to support 1280x720 (Frame:325).
+[2016.12.26-09.59.46:583][350]LogNet: Client netspeed is 10000
+[2016.12.26-09.59.46:583][350]LogNet: Join request: /Game/TopDownBP/Maps/TopDownExampleMap?SplitscreenCount=1
+[2016.12.26-09.59.46:629][350]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.12.26-09.59.46:726][350]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.12.26-09.59.46:726][350]LogNet: Join succeeded: 256
+[2016.12.26-09.59.46:767][350]LogScript:Warning: Accessed None trying to read property Character
+	TopDownController_C /Game/TopDownBP/Maps/UEDPIE_2_TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownController_C_0
+	Function /Game/TopDownBP/Blueprints/TopDownController.TopDownController_C:MoveUpAndDown:0060
+[2016.12.26-09.59.46:767][350]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property Character from function: 'MoveUpAndDown' from node: Add Movement Input in graph: MoveUpAndDown in object: TopDownController with description: Accessed None trying to read property Character
+[2016.12.26-09.59.46:767][350]LogScript:Warning: Accessed None trying to read property Character
+	TopDownController_C /Game/TopDownBP/Maps/UEDPIE_2_TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownController_C_0
+	Function /Game/TopDownBP/Blueprints/TopDownController.TopDownController_C:MoveLeftAndRight:0060
+[2016.12.26-09.59.46:767][350]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property Character from function: 'MoveLeftAndRight' from node: Add Movement Input in graph: MoveLeftAndRight in object: TopDownController with description: Accessed None trying to read property Character
+[2016.12.26-09.59.46:772][350]LogScript:Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+	TopDownController_C /Game/TopDownBP/Maps/UEDPIE_2_TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownController_C_0
+	Function /Game/TopDownBP/Blueprints/TopDownController.TopDownController_C:RotateCharacter:012C
+[2016.12.26-09.59.46:772][350]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-09.59.46:772][350]LogScript:Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+	TopDownController_C /Game/TopDownBP/Maps/UEDPIE_2_TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownController_C_0
+	Function /Game/TopDownBP/Blueprints/TopDownController.TopDownController_C:RotateCharacter:015E
+[2016.12.26-09.59.46:773][350]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-09.59.46:773][350]LogScript:Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+	TopDownController_C /Game/TopDownBP/Maps/UEDPIE_2_TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownController_C_0
+	Function /Game/TopDownBP/Blueprints/TopDownController.TopDownController_C:RotateCharacter:024A
+[2016.12.26-09.59.46:773][350]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-09.59.46:773][350]LogScript:Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+	TopDownController_C /Game/TopDownBP/Maps/UEDPIE_2_TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownController_C_0
+	Function /Game/TopDownBP/Blueprints/TopDownController.TopDownController_C:RotateCharacter:036B
+[2016.12.26-09.59.46:773][350]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: Srv Rotation Changed in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-09.59.46:773][350]LogScript:Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+	TopDownController_C /Game/TopDownBP/Maps/UEDPIE_2_TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownController_C_0
+	Function /Game/TopDownBP/Blueprints/TopDownController.TopDownController_C:RotateCharacter:039D
+[2016.12.26-09.59.46:773][350]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: Srv Rotation Changed in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-09.59.46:820][351]LogScript:Warning: Accessed None trying to read property Character
+	TopDownController_C /Game/TopDownBP/Maps/UEDPIE_2_TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownController_C_0
+	Function /Game/TopDownBP/Blueprints/TopDownController.TopDownController_C:MoveUpAndDown:0060
+[2016.12.26-09.59.46:821][351]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property Character from function: 'MoveUpAndDown' from node: Add Movement Input in graph: MoveUpAndDown in object: TopDownController with description: Accessed None trying to read property Character
+[2016.12.26-09.59.46:821][351]LogScript:Warning: Accessed None trying to read property Character
+	TopDownController_C /Game/TopDownBP/Maps/UEDPIE_2_TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownController_C_0
+	Function /Game/TopDownBP/Blueprints/TopDownController.TopDownController_C:MoveLeftAndRight:0060
+[2016.12.26-09.59.46:821][351]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property Character from function: 'MoveLeftAndRight' from node: Add Movement Input in graph: MoveLeftAndRight in object: TopDownController with description: Accessed None trying to read property Character
+[2016.12.26-09.59.46:821][351]LogScript:Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+	TopDownController_C /Game/TopDownBP/Maps/UEDPIE_2_TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownController_C_0
+	Function /Game/TopDownBP/Blueprints/TopDownController.TopDownController_C:RotateCharacter:012C
+[2016.12.26-09.59.46:821][351]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-09.59.46:821][351]LogScript:Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+	TopDownController_C /Game/TopDownBP/Maps/UEDPIE_2_TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownController_C_0
+	Function /Game/TopDownBP/Blueprints/TopDownController.TopDownController_C:RotateCharacter:015E
+[2016.12.26-09.59.46:822][351]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-09.59.46:822][351]LogScript:Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+	TopDownController_C /Game/TopDownBP/Maps/UEDPIE_2_TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownController_C_0
+	Function /Game/TopDownBP/Blueprints/TopDownController.TopDownController_C:RotateCharacter:024A
+[2016.12.26-09.59.46:822][351]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-09.59.46:822][351]LogScript:Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+	TopDownController_C /Game/TopDownBP/Maps/UEDPIE_2_TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownController_C_0
+	Function /Game/TopDownBP/Blueprints/TopDownController.TopDownController_C:RotateCharacter:036B
+[2016.12.26-09.59.46:822][351]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: Srv Rotation Changed in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-09.59.46:822][351]LogScript:Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+	TopDownController_C /Game/TopDownBP/Maps/UEDPIE_2_TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownController_C_0
+	Function /Game/TopDownBP/Blueprints/TopDownController.TopDownController_C:RotateCharacter:039D
+[2016.12.26-09.59.46:822][351]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: Srv Rotation Changed in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-09.59.46:848][352]LogScript:Warning: Accessed None trying to read property Character
+	TopDownController_C /Game/TopDownBP/Maps/UEDPIE_2_TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownController_C_0
+	Function /Game/TopDownBP/Blueprints/TopDownController.TopDownController_C:MoveUpAndDown:0060
+[2016.12.26-09.59.46:848][352]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property Character from function: 'MoveUpAndDown' from node: Add Movement Input in graph: MoveUpAndDown in object: TopDownController with description: Accessed None trying to read property Character
+[2016.12.26-09.59.46:848][352]LogScript:Warning: Accessed None trying to read property Character
+	TopDownController_C /Game/TopDownBP/Maps/UEDPIE_2_TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownController_C_0
+	Function /Game/TopDownBP/Blueprints/TopDownController.TopDownController_C:MoveLeftAndRight:0060
+[2016.12.26-09.59.46:848][352]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property Character from function: 'MoveLeftAndRight' from node: Add Movement Input in graph: MoveLeftAndRight in object: TopDownController with description: Accessed None trying to read property Character
+[2016.12.26-09.59.46:848][352]LogScript:Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+	TopDownController_C /Game/TopDownBP/Maps/UEDPIE_2_TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownController_C_0
+	Function /Game/TopDownBP/Blueprints/TopDownController.TopDownController_C:RotateCharacter:012C
+[2016.12.26-09.59.46:849][352]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-09.59.46:849][352]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-09.59.46:849][352]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-09.59.46:849][352]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: Srv Rotation Changed in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-09.59.46:849][352]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: Srv Rotation Changed in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-09.59.46:868][353]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property Character from function: 'MoveUpAndDown' from node: Add Movement Input in graph: MoveUpAndDown in object: TopDownController with description: Accessed None trying to read property Character
+[2016.12.26-09.59.46:868][353]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property Character from function: 'MoveLeftAndRight' from node: Add Movement Input in graph: MoveLeftAndRight in object: TopDownController with description: Accessed None trying to read property Character
+[2016.12.26-09.59.46:869][353]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-09.59.46:869][353]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-09.59.46:869][353]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-09.59.46:869][353]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: Srv Rotation Changed in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-09.59.46:869][353]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: Srv Rotation Changed in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-09.59.46:935][354]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property Character from function: 'MoveUpAndDown' from node: Add Movement Input in graph: MoveUpAndDown in object: TopDownController with description: Accessed None trying to read property Character
+[2016.12.26-09.59.46:935][354]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property Character from function: 'MoveLeftAndRight' from node: Add Movement Input in graph: MoveLeftAndRight in object: TopDownController with description: Accessed None trying to read property Character
+[2016.12.26-09.59.46:935][354]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-09.59.46:935][354]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-09.59.46:936][354]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-09.59.46:936][354]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: Srv Rotation Changed in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-09.59.46:936][354]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: Srv Rotation Changed in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-09.59.46:965][355]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property Character from function: 'MoveUpAndDown' from node: Add Movement Input in graph: MoveUpAndDown in object: TopDownController with description: Accessed None trying to read property Character
+[2016.12.26-09.59.46:965][355]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property Character from function: 'MoveLeftAndRight' from node: Add Movement Input in graph: MoveLeftAndRight in object: TopDownController with description: Accessed None trying to read property Character
+[2016.12.26-09.59.46:965][355]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-09.59.46:965][355]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-09.59.46:966][355]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-09.59.46:966][355]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: Srv Rotation Changed in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-09.59.46:966][355]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: Srv Rotation Changed in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-09.59.47:005][356]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property Character from function: 'MoveUpAndDown' from node: Add Movement Input in graph: MoveUpAndDown in object: TopDownController with description: Accessed None trying to read property Character
+[2016.12.26-09.59.47:005][356]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property Character from function: 'MoveLeftAndRight' from node: Add Movement Input in graph: MoveLeftAndRight in object: TopDownController with description: Accessed None trying to read property Character
+[2016.12.26-09.59.47:005][356]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-09.59.47:006][356]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-09.59.47:006][356]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-09.59.47:006][356]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: Srv Rotation Changed in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-09.59.47:006][356]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: Srv Rotation Changed in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-09.59.47:044][357]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property Character from function: 'MoveUpAndDown' from node: Add Movement Input in graph: MoveUpAndDown in object: TopDownController with description: Accessed None trying to read property Character
+[2016.12.26-09.59.47:044][357]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property Character from function: 'MoveLeftAndRight' from node: Add Movement Input in graph: MoveLeftAndRight in object: TopDownController with description: Accessed None trying to read property Character
+[2016.12.26-09.59.47:045][357]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-09.59.47:045][357]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-09.59.47:045][357]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-09.59.47:046][357]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: Srv Rotation Changed in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-09.59.47:046][357]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: Srv Rotation Changed in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-09.59.47:080][358]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property Character from function: 'MoveUpAndDown' from node: Add Movement Input in graph: MoveUpAndDown in object: TopDownController with description: Accessed None trying to read property Character
+[2016.12.26-09.59.47:080][358]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property Character from function: 'MoveLeftAndRight' from node: Add Movement Input in graph: MoveLeftAndRight in object: TopDownController with description: Accessed None trying to read property Character
+[2016.12.26-09.59.47:080][358]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-09.59.47:081][358]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-09.59.47:081][358]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-09.59.47:081][358]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: Srv Rotation Changed in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-09.59.47:081][358]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: Srv Rotation Changed in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-09.59.47:117][359]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property Character from function: 'MoveUpAndDown' from node: Add Movement Input in graph: MoveUpAndDown in object: TopDownController with description: Accessed None trying to read property Character
+[2016.12.26-09.59.47:118][359]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property Character from function: 'MoveLeftAndRight' from node: Add Movement Input in graph: MoveLeftAndRight in object: TopDownController with description: Accessed None trying to read property Character
+[2016.12.26-09.59.47:118][359]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-09.59.47:118][359]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-09.59.47:119][359]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-09.59.47:119][359]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: Srv Rotation Changed in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-09.59.47:119][359]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: Srv Rotation Changed in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-09.59.47:154][360]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property Character from function: 'MoveUpAndDown' from node: Add Movement Input in graph: MoveUpAndDown in object: TopDownController with description: Accessed None trying to read property Character
+[2016.12.26-09.59.47:155][360]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property Character from function: 'MoveLeftAndRight' from node: Add Movement Input in graph: MoveLeftAndRight in object: TopDownController with description: Accessed None trying to read property Character
+[2016.12.26-09.59.47:155][360]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-09.59.47:155][360]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-09.59.47:155][360]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-09.59.47:155][360]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: Srv Rotation Changed in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-09.59.47:155][360]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: Srv Rotation Changed in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-09.59.47:193][361]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property Character from function: 'MoveUpAndDown' from node: Add Movement Input in graph: MoveUpAndDown in object: TopDownController with description: Accessed None trying to read property Character
+[2016.12.26-09.59.47:193][361]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property Character from function: 'MoveLeftAndRight' from node: Add Movement Input in graph: MoveLeftAndRight in object: TopDownController with description: Accessed None trying to read property Character
+[2016.12.26-09.59.47:193][361]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-09.59.47:194][361]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-09.59.47:194][361]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-09.59.47:194][361]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: Srv Rotation Changed in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-09.59.47:194][361]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: Srv Rotation Changed in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-09.59.47:229][362]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property Character from function: 'MoveUpAndDown' from node: Add Movement Input in graph: MoveUpAndDown in object: TopDownController with description: Accessed None trying to read property Character
+[2016.12.26-09.59.47:229][362]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property Character from function: 'MoveLeftAndRight' from node: Add Movement Input in graph: MoveLeftAndRight in object: TopDownController with description: Accessed None trying to read property Character
+[2016.12.26-09.59.47:230][362]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-09.59.47:230][362]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-09.59.47:230][362]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-09.59.47:230][362]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: Srv Rotation Changed in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-09.59.47:231][362]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: Srv Rotation Changed in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-09.59.47:266][363]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property Character from function: 'MoveUpAndDown' from node: Add Movement Input in graph: MoveUpAndDown in object: TopDownController with description: Accessed None trying to read property Character
+[2016.12.26-09.59.47:267][363]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property Character from function: 'MoveLeftAndRight' from node: Add Movement Input in graph: MoveLeftAndRight in object: TopDownController with description: Accessed None trying to read property Character
+[2016.12.26-09.59.47:267][363]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-09.59.47:267][363]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-09.59.47:268][363]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-09.59.47:268][363]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: Srv Rotation Changed in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-09.59.47:268][363]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: Srv Rotation Changed in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-09.59.47:305][364]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property Character from function: 'MoveUpAndDown' from node: Add Movement Input in graph: MoveUpAndDown in object: TopDownController with description: Accessed None trying to read property Character
+[2016.12.26-09.59.47:306][364]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property Character from function: 'MoveLeftAndRight' from node: Add Movement Input in graph: MoveLeftAndRight in object: TopDownController with description: Accessed None trying to read property Character
+[2016.12.26-09.59.47:306][364]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-09.59.47:306][364]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-09.59.47:306][364]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-09.59.47:307][364]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: Srv Rotation Changed in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-09.59.47:308][364]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: Srv Rotation Changed in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-09.59.47:343][365]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property Character from function: 'MoveUpAndDown' from node: Add Movement Input in graph: MoveUpAndDown in object: TopDownController with description: Accessed None trying to read property Character
+[2016.12.26-09.59.47:343][365]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property Character from function: 'MoveLeftAndRight' from node: Add Movement Input in graph: MoveLeftAndRight in object: TopDownController with description: Accessed None trying to read property Character
+[2016.12.26-09.59.47:343][365]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-09.59.47:344][365]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-09.59.47:344][365]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-09.59.47:345][365]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: Srv Rotation Changed in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-09.59.47:345][365]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: Srv Rotation Changed in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.00.34:365][629]LogScriptCore:Warning: Script Msg: Attempted to access index 1 from array Equipment of length 1!
+[2016.12.26-10.00.34:365][629]LogScriptCore:Warning: 
+[2016.12.26-10.00.34:723][639]LogScriptCore:Warning: Script Msg: Attempted to access index 2 from array Equipment of length 1!
+[2016.12.26-10.00.34:723][639]LogScriptCore:Warning: 
+[2016.12.26-10.00.34:868][643]LogScriptCore:Warning: Script Msg: Attempted to access index 3 from array Equipment of length 1!
+[2016.12.26-10.00.34:868][643]LogScriptCore:Warning: 
+[2016.12.26-10.00.35:233][653]LogScriptCore:Warning: Script Msg: Attempted to access index 4 from array Equipment of length 1!
+[2016.12.26-10.00.35:233][653]LogScriptCore:Warning: 
+[2016.12.26-10.00.35:778][668]LogScriptCore:Warning: Script Msg: Attempted to access index 2 from array Equipment of length 1!
+[2016.12.26-10.00.35:778][668]LogScriptCore:Warning: 
+[2016.12.26-10.00.36:283][682]LogScriptCore:Warning: Script Msg: Attempted to access index 3 from array Equipment of length 1!
+[2016.12.26-10.00.36:283][682]LogScriptCore:Warning: 
+[2016.12.26-10.00.36:572][690]LogScriptCore:Warning: Script Msg: Attempted to access index 4 from array Equipment of length 1!
+[2016.12.26-10.00.36:572][690]LogScriptCore:Warning: 
+[2016.12.26-10.00.36:826][697]LogScriptCore:Warning: Script Msg: Attempted to access index 5 from array Equipment of length 1!
+[2016.12.26-10.00.36:826][697]LogScriptCore:Warning: 
+[2016.12.26-10.00.37:114][705]LogScriptCore:Warning: Script Msg: Attempted to access index 6 from array Equipment of length 1!
+[2016.12.26-10.00.37:114][705]LogScriptCore:Warning: 
+[2016.12.26-10.00.37:367][712]LogScriptCore:Warning: Script Msg: Attempted to access index 7 from array Equipment of length 1!
+[2016.12.26-10.00.37:367][712]LogScriptCore:Warning: 
+[2016.12.26-10.00.38:235][736]LogScriptCore:Warning: Script Msg: Attempted to access index 1 from array Equipment of length 1!
+[2016.12.26-10.00.38:235][736]LogScriptCore:Warning: 
+[2016.12.26-10.00.38:855][753]LogScriptCore:Warning: Script Msg: Attempted to access index 2 from array Equipment of length 1!
+[2016.12.26-10.00.38:855][753]LogScriptCore:Warning: 
+[2016.12.26-10.00.39:038][758]LogScriptCore:Warning: Script Msg: Attempted to access index 3 from array Equipment of length 1!
+[2016.12.26-10.00.39:038][758]LogScriptCore:Warning: 
+[2016.12.26-10.01.00:811][339]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2016.12.26-10.01.00:867][339]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2016.12.26-10.01.00:889][339]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:57699, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None
+[2016.12.26-10.01.00:889][339]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:57699, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None, Channels: 2, Time: 2016.12.26-10.01.00
+[2016.12.26-10.01.00:889][339]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:57699, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None
+[2016.12.26-10.01.00:889][339]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: None, Owner: None
+[2016.12.26-10.01.00:889][339]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: None, Owner: None, Channels: 2, Time: 2016.12.26-10.01.00
+[2016.12.26-10.01.00:889][339]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: None, Owner: None
+[2016.12.26-10.01.00:905][339]LogExit: GameNetDriver None shut down
+[2016.12.26-10.01.00:906][339]LogExit: GameNetDriver None shut down
+[2016.12.26-10.01.13:512][604]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 112 classes and 0 folders.
+[2016.12.26-10.02.39:951][833]LogHttp:Warning: 0000012506305C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2016.12.26-10.02.39:951][833]LogHttp:Warning: 0000012506305C00: libcurl info message cache 0 (schannel: server closed the connection)
+[2016.12.26-10.02.39:951][833]LogHttp:Warning: 0000012506305C00: libcurl info message cache 1 (schannel: schannel_recv cleanup)
+[2016.12.26-10.02.39:951][833]LogHttp:Warning: 0000012506305C00: libcurl info message cache 2 (Connection died, retrying a fresh connect)
+[2016.12.26-10.02.39:951][833]LogHttp:Warning: 0000012506305C00: libcurl info message cache 3 (Closing connection 1)
+[2016.12.26-10.02.39:951][833]LogHttp:Warning: 0000012506305C00: libcurl info message cache 4 (schannel: shutting down SSL/TLS connection with datarouter.ol.epicgames.com port 443)
+[2016.12.26-10.02.39:951][833]LogHttp:Warning: 0000012506305C00: libcurl info message cache 5 (schannel: clear security context handle)
+[2016.12.26-10.02.39:951][833]LogHttp:Warning: 0000012506305C00: libcurl info message cache 6 (schannel: decremented credential handle refcount = 0)
+[2016.12.26-10.02.39:951][833]LogHttp:Warning: 0000012506305C00: libcurl info message cache 7 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6A84BF70-42DE-5628-441F-C089DF1461B9%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.13.1-3142249%2B%2B%2BUE4%2BRelease-4.13&UserID=c305158b486a844efdae7a9c0d04133f%7C548c375b3d2a4197b90e4e2495441e07%7C3ad3f71c-3df7-471d-9c86-9c4f98e0c74e&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2016.12.26-10.02.39:951][833]LogHttp:Warning: 0000012506305C00: libcurl info message cache 8 (Could not resolve host: datarouter.ol.epicgames.com)
+[2016.12.26-10.02.39:951][833]LogHttp:Warning: 0000012506305C00: libcurl info message cache 9 (Closing connection 2)
+[2016.12.26-10.03.48:066][764]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2016.12.26-10.03.48:066][764]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.26-10.03.48:066][764]PIE: New page: PIE session: TopDownExampleMap (Dec 26, 2016, 2:03:48 PM)
+[2016.12.26-10.03.48:066][764]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_1_TopDownExampleMap
+[2016.12.26-10.03.48:101][764]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034452s)
+[2016.12.26-10.03.48:102][764]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2016.12.26-10.03.48:102][764]LogPlayLevel: PIE: World Init took: (0.001306s)
+[2016.12.26-10.03.48:103][764]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_1_TopDownExampleMap.TopDownExampleMap (0.036236s)
+[2016.12.26-10.03.48:176][764]LogWorld: Game class is 'TopDownGameMode_C'
+[2016.12.26-10.03.48:182][764]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_1_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2016.12.26-12.03.48
+[2016.12.26-10.03.48:183][764]LogWorld: Bringing up level for play took: 0.005824
+[2016.12.26-10.03.48:183][764]LogInit: WinSock: Socket queue 131072 / 131072
+[2016.12.26-10.03.48:184][764]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2016.12.26-10.03.48:184][764]LogNet: GameNetDriver IpNetDriver_2 IpNetDriver listening on port 7777
+[2016.12.26-10.03.48:184][764]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.26-10.03.48:184][764]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.26-10.03.48:184][764]PIE: Info Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_1_TopDownExampleMap 0.361
+[2016.12.26-10.03.48:185][764]PIE: New page: PIE session: TopDownExampleMap (Dec 26, 2016, 2:03:48 PM)
+[2016.12.26-10.03.48:191][764]LogInit: XAudio2 using 'Głośniki (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2016.12.26-10.03.48:212][764]LogInit: FAudioDevice initialized.
+[2016.12.26-10.03.48:262][764]LogNet: Browse: 127.0.0.1//Game/TopDownBP/Maps/TopDownExampleMap
+[2016.12.26-10.03.48:262][764]LogInit: WinSock: Socket queue 32768 / 32768
+[2016.12.26-10.03.48:263][764]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2016.12.26-10.03.48:263][764]LogNet: Game client on port 7777, rate 10000
+[2016.12.26-10.03.48:263][764]LogNet: UPendingNetGame::InitNetDriver: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_2, Driver: PendingNetDriver IpNetDriver_3, IsServer: NO, PC: NULL, Owner: NULL
+[2016.12.26-10.03.48:270][764]PIE: Info Play in editor start time for /Game/TopDownBP/Maps/TopDownExampleMap 0.446
+[2016.12.26-10.03.48:279][764]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2016.12.26-10.03.48:279][764]LogHandshake: SendConnectChallenge. Timestamp: 0.029088, Cookie: 167159106010242172088109083217176111130011048184093075176025
+[2016.12.26-10.03.48:280][764]LogHandshake: SendChallengeResponse. Timestamp: 0.029088, Cookie: 167159106010242172088109083217176111130011048184093075176025
+[2016.12.26-10.03.48:366][765]LogNet: Server accepting post-challenge connection from: 127.0.0.1:55146
+[2016.12.26-10.03.48:366][765]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2016.12.26-10.03.48:366][765]LogNet: NotifyAcceptedConnection: Name: TopDownExampleMap, TimeStamp: 12/26/16 12:03:48, [UNetConnection] RemoteAddr: 127.0.0.1:55146, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: NULL, Owner: NULL
+[2016.12.26-10.03.48:366][765]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:55146, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: NULL, Owner: NULL
+[2016.12.26-10.03.48:461][767]LogNet: NotifyAcceptingChannel Control 0 server World /Game/TopDownBP/Maps/UEDPIE_1_TopDownExampleMap.TopDownExampleMap: Accepted
+[2016.12.26-10.03.48:461][767]LogNet: Remote platform little endian=1
+[2016.12.26-10.03.48:461][767]LogNet: This platform little endian=1
+[2016.12.26-10.03.48:478][768]LogNet: Login request: /Game/TopDownBP/Maps/TopDownExampleMap userId: Invalid
+[2016.12.26-10.03.48:478][768]LogNet: Welcomed by server (Level: /Game/TopDownBP/Maps/UEDPIE_1_TopDownExampleMap, Game: /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C)
+[2016.12.26-10.03.48:478][768]LogLoad: LoadMap: 127.0.0.1//Game/TopDownBP/Maps/UEDPIE_1_TopDownExampleMap?game=/Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C
+[2016.12.26-10.03.48:532][768]Cmd: MEM
+[2016.12.26-10.03.48:580][768]LogMemory: Platform Memory Stats for Windows
+[2016.12.26-10.03.48:581][768]LogMemory: Process Physical Memory: 1244.05 MB used, 1252.04 MB peak
+[2016.12.26-10.03.48:581][768]LogMemory: Process Virtual Memory: 2051.92 MB used, 2059.22 MB peak
+[2016.12.26-10.03.48:581][768]LogMemory: Physical Memory: 4664.56 MB used, 8084.27 MB total
+[2016.12.26-10.03.48:581][768]LogMemory: Virtual Memory: 2855.21 MB used, 134217728.00 MB total
+[2016.12.26-10.03.48:581][768]LogMemory: 
+[2016.12.26-10.03.48:581][768]Allocator Stats for TBB: (not implemented)
+[2016.12.26-10.03.48:614][768]LogWorld: PIE: Copying PIE streaming level from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_2_TopDownExampleMap.TopDownExampleMap. OwningWorld: <null>
+[2016.12.26-10.03.48:615][768]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2016.12.26-10.03.48:622][768]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_2_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2016.12.26-12.03.48
+[2016.12.26-10.03.48:622][768]LogWorld: Bringing up level for play took: 0.006348
+[2016.12.26-10.03.48:624][768]LogLoad: Took 0.145372 seconds to LoadMap(/Game/TopDownBP/Maps/UEDPIE_1_TopDownExampleMap)
+[2016.12.26-10.03.48:657][769]LogNet: Client netspeed is 10000
+[2016.12.26-10.03.48:657][769]LogNet: Join request: /Game/TopDownBP/Maps/TopDownExampleMap?SplitscreenCount=1
+[2016.12.26-10.03.48:659][769]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.12.26-10.03.48:662][769]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.12.26-10.03.48:662][769]LogNet: Join succeeded: 257
+[2016.12.26-10.03.48:666][769]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property Character from function: 'MoveUpAndDown' from node: Add Movement Input in graph: MoveUpAndDown in object: TopDownController with description: Accessed None trying to read property Character
+[2016.12.26-10.03.48:666][769]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property Character from function: 'MoveLeftAndRight' from node: Add Movement Input in graph: MoveLeftAndRight in object: TopDownController with description: Accessed None trying to read property Character
+[2016.12.26-10.03.48:667][769]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.48:667][769]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.48:667][769]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.48:667][769]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: Srv Rotation Changed in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.48:667][769]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: Srv Rotation Changed in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.53:394][898]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2016.12.26-10.03.53:455][898]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2016.12.26-10.03.53:500][898]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:55146, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: None, Owner: None
+[2016.12.26-10.03.53:500][898]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:55146, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: None, Owner: None, Channels: 2, Time: 2016.12.26-10.03.53
+[2016.12.26-10.03.53:500][898]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:55146, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: None, Owner: None
+[2016.12.26-10.03.53:500][898]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: None, Owner: None
+[2016.12.26-10.03.53:500][898]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: None, Owner: None, Channels: 2, Time: 2016.12.26-10.03.53
+[2016.12.26-10.03.53:500][898]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: None, Owner: None
+[2016.12.26-10.03.53:504][898]LogExit: GameNetDriver None shut down
+[2016.12.26-10.03.53:504][898]LogExit: GameNetDriver None shut down
+[2016.12.26-10.03.58:121][157]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2016.12.26-10.03.58:121][157]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.26-10.03.58:121][157]PIE: New page: PIE session: TopDownExampleMap (Dec 26, 2016, 2:03:58 PM)
+[2016.12.26-10.03.58:122][157]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_1_TopDownExampleMap
+[2016.12.26-10.03.58:154][157]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032231s)
+[2016.12.26-10.03.58:155][157]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2016.12.26-10.03.58:156][157]LogPlayLevel: PIE: World Init took: (0.002193s)
+[2016.12.26-10.03.58:157][157]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_1_TopDownExampleMap.TopDownExampleMap (0.035126s)
+[2016.12.26-10.03.58:207][157]LogWorld: Game class is 'TopDownGameMode_C'
+[2016.12.26-10.03.58:213][157]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_1_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2016.12.26-12.03.58
+[2016.12.26-10.03.58:214][157]LogWorld: Bringing up level for play took: 0.005326
+[2016.12.26-10.03.58:214][157]LogInit: WinSock: Socket queue 131072 / 131072
+[2016.12.26-10.03.58:215][157]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2016.12.26-10.03.58:215][157]LogNet: GameNetDriver IpNetDriver_4 IpNetDriver listening on port 7777
+[2016.12.26-10.03.58:215][157]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.26-10.03.58:215][157]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.26-10.03.58:215][157]PIE: Info Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_1_TopDownExampleMap 0.391
+[2016.12.26-10.03.58:217][157]PIE: New page: PIE session: TopDownExampleMap (Dec 26, 2016, 2:03:58 PM)
+[2016.12.26-10.03.58:222][157]LogInit: XAudio2 using 'Głośniki (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2016.12.26-10.03.58:241][157]LogInit: FAudioDevice initialized.
+[2016.12.26-10.03.58:289][157]LogNet: Browse: 127.0.0.1//Game/TopDownBP/Maps/TopDownExampleMap
+[2016.12.26-10.03.58:289][157]LogInit: WinSock: Socket queue 32768 / 32768
+[2016.12.26-10.03.58:290][157]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2016.12.26-10.03.58:290][157]LogNet: Game client on port 7777, rate 10000
+[2016.12.26-10.03.58:290][157]LogNet: UPendingNetGame::InitNetDriver: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_4, Driver: PendingNetDriver IpNetDriver_5, IsServer: NO, PC: NULL, Owner: NULL
+[2016.12.26-10.03.58:299][157]PIE: Info Play in editor start time for /Game/TopDownBP/Maps/TopDownExampleMap 0.475
+[2016.12.26-10.03.58:301][157]PIE: New page: PIE session: TopDownExampleMap (Dec 26, 2016, 2:03:58 PM)
+[2016.12.26-10.03.58:353][157]LogNet: Browse: 127.0.0.1//Game/TopDownBP/Maps/TopDownExampleMap
+[2016.12.26-10.03.58:354][157]LogInit: WinSock: Socket queue 32768 / 32768
+[2016.12.26-10.03.58:354][157]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2016.12.26-10.03.58:354][157]LogNet: Game client on port 7777, rate 10000
+[2016.12.26-10.03.58:355][157]LogNet: UPendingNetGame::InitNetDriver: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_5, Driver: PendingNetDriver IpNetDriver_6, IsServer: NO, PC: NULL, Owner: NULL
+[2016.12.26-10.03.58:364][157]PIE: Info Play in editor start time for /Game/TopDownBP/Maps/TopDownExampleMap 0.54
+[2016.12.26-10.03.58:373][157]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2016.12.26-10.03.58:373][157]LogHandshake: SendConnectChallenge. Timestamp: 0.016667, Cookie: 158070196149209082168075197125078178225189204235024021093097
+[2016.12.26-10.03.58:373][157]LogHandshake: SendConnectChallenge. Timestamp: 0.016667, Cookie: 150085184069236193101093142103183116153177211207063234154221
+[2016.12.26-10.03.58:375][157]LogHandshake: SendChallengeResponse. Timestamp: 0.016667, Cookie: 158070196149209082168075197125078178225189204235024021093097
+[2016.12.26-10.03.58:378][157]LogHandshake: SendChallengeResponse. Timestamp: 0.016667, Cookie: 150085184069236193101093142103183116153177211207063234154221
+[2016.12.26-10.03.58:489][158]LogNet: Server accepting post-challenge connection from: 127.0.0.1:54081
+[2016.12.26-10.03.58:490][158]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2016.12.26-10.03.58:490][158]LogNet: NotifyAcceptedConnection: Name: TopDownExampleMap, TimeStamp: 12/26/16 12:03:58, [UNetConnection] RemoteAddr: 127.0.0.1:54081, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: NULL, Owner: NULL
+[2016.12.26-10.03.58:490][158]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:54081, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: NULL, Owner: NULL
+[2016.12.26-10.03.58:490][158]LogNet: Server accepting post-challenge connection from: 127.0.0.1:54082
+[2016.12.26-10.03.58:490][158]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2016.12.26-10.03.58:490][158]LogNet: NotifyAcceptedConnection: Name: TopDownExampleMap, TimeStamp: 12/26/16 12:03:58, [UNetConnection] RemoteAddr: 127.0.0.1:54082, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: NULL, Owner: NULL
+[2016.12.26-10.03.58:491][158]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:54082, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: NULL, Owner: NULL
+[2016.12.26-10.03.58:579][160]LogNet: NotifyAcceptingChannel Control 0 server World /Game/TopDownBP/Maps/UEDPIE_1_TopDownExampleMap.TopDownExampleMap: Accepted
+[2016.12.26-10.03.58:579][160]LogNet: Remote platform little endian=1
+[2016.12.26-10.03.58:579][160]LogNet: This platform little endian=1
+[2016.12.26-10.03.58:579][160]LogNet: NotifyAcceptingChannel Control 0 server World /Game/TopDownBP/Maps/UEDPIE_1_TopDownExampleMap.TopDownExampleMap: Accepted
+[2016.12.26-10.03.58:579][160]LogNet: Remote platform little endian=1
+[2016.12.26-10.03.58:579][160]LogNet: This platform little endian=1
+[2016.12.26-10.03.58:600][161]LogNet: Login request: /Game/TopDownBP/Maps/TopDownExampleMap userId: Invalid
+[2016.12.26-10.03.58:600][161]LogNet: Login request: /Game/TopDownBP/Maps/TopDownExampleMap userId: Invalid
+[2016.12.26-10.03.58:600][161]LogNet: Welcomed by server (Level: /Game/TopDownBP/Maps/UEDPIE_1_TopDownExampleMap, Game: /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C)
+[2016.12.26-10.03.58:601][161]LogLoad: LoadMap: 127.0.0.1//Game/TopDownBP/Maps/UEDPIE_1_TopDownExampleMap?game=/Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C
+[2016.12.26-10.03.58:671][161]Cmd: MEM
+[2016.12.26-10.03.58:734][161]LogMemory: Platform Memory Stats for Windows
+[2016.12.26-10.03.58:734][161]LogMemory: Process Physical Memory: 1251.90 MB used, 1321.42 MB peak
+[2016.12.26-10.03.58:734][161]LogMemory: Process Virtual Memory: 1991.36 MB used, 2116.36 MB peak
+[2016.12.26-10.03.58:734][161]LogMemory: Physical Memory: 4652.40 MB used, 8084.27 MB total
+[2016.12.26-10.03.58:734][161]LogMemory: Virtual Memory: 2812.54 MB used, 134217728.00 MB total
+[2016.12.26-10.03.58:734][161]LogMemory: 
+[2016.12.26-10.03.58:734][161]Allocator Stats for TBB: (not implemented)
+[2016.12.26-10.03.58:763][161]LogWorld: PIE: Copying PIE streaming level from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_2_TopDownExampleMap.TopDownExampleMap. OwningWorld: <null>
+[2016.12.26-10.03.58:764][161]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2016.12.26-10.03.58:770][161]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_2_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2016.12.26-12.03.58
+[2016.12.26-10.03.58:770][161]LogWorld: Bringing up level for play took: 0.005339
+[2016.12.26-10.03.58:770][161]LogLoad: Took 0.169874 seconds to LoadMap(/Game/TopDownBP/Maps/UEDPIE_1_TopDownExampleMap)
+[2016.12.26-10.03.58:771][161]LogNet: Welcomed by server (Level: /Game/TopDownBP/Maps/UEDPIE_1_TopDownExampleMap, Game: /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C)
+[2016.12.26-10.03.58:771][161]LogLoad: LoadMap: 127.0.0.1//Game/TopDownBP/Maps/UEDPIE_1_TopDownExampleMap?game=/Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C
+[2016.12.26-10.03.58:869][161]Cmd: MEM
+[2016.12.26-10.03.58:920][161]LogMemory: Platform Memory Stats for Windows
+[2016.12.26-10.03.58:920][161]LogMemory: Process Physical Memory: 1264.03 MB used, 1321.42 MB peak
+[2016.12.26-10.03.58:920][161]LogMemory: Process Virtual Memory: 2068.06 MB used, 2116.36 MB peak
+[2016.12.26-10.03.58:920][161]LogMemory: Physical Memory: 4667.14 MB used, 8084.27 MB total
+[2016.12.26-10.03.58:920][161]LogMemory: Virtual Memory: 2885.10 MB used, 134217728.00 MB total
+[2016.12.26-10.03.58:920][161]LogMemory: 
+[2016.12.26-10.03.58:920][161]Allocator Stats for TBB: (not implemented)
+[2016.12.26-10.03.58:949][161]LogWorld: PIE: Copying PIE streaming level from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_3_TopDownExampleMap.TopDownExampleMap. OwningWorld: <null>
+[2016.12.26-10.03.58:950][161]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2016.12.26-10.03.58:957][161]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_3_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2016.12.26-12.03.58
+[2016.12.26-10.03.58:957][161]LogWorld: Bringing up level for play took: 0.005624
+[2016.12.26-10.03.58:958][161]LogLoad: Took 0.186274 seconds to LoadMap(/Game/TopDownBP/Maps/UEDPIE_1_TopDownExampleMap)
+[2016.12.26-10.03.58:992][162]LogNet: Client netspeed is 10000
+[2016.12.26-10.03.58:992][162]LogNet: Join request: /Game/TopDownBP/Maps/TopDownExampleMap?SplitscreenCount=1
+[2016.12.26-10.03.58:994][162]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.12.26-10.03.58:996][162]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.12.26-10.03.58:996][162]LogNet: Join succeeded: 258
+[2016.12.26-10.03.58:996][162]LogNet: Client netspeed is 10000
+[2016.12.26-10.03.58:996][162]LogNet: Join request: /Game/TopDownBP/Maps/TopDownExampleMap?SplitscreenCount=1
+[2016.12.26-10.03.59:017][162]LogNet: Join succeeded: 259
+[2016.12.26-10.03.59:022][162]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property Character from function: 'MoveUpAndDown' from node: Add Movement Input in graph: MoveUpAndDown in object: TopDownController with description: Accessed None trying to read property Character
+[2016.12.26-10.03.59:022][162]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property Character from function: 'MoveLeftAndRight' from node: Add Movement Input in graph: MoveLeftAndRight in object: TopDownController with description: Accessed None trying to read property Character
+[2016.12.26-10.03.59:022][162]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:022][162]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:023][162]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:023][162]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: Srv Rotation Changed in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:023][162]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: Srv Rotation Changed in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:027][162]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property Character from function: 'MoveUpAndDown' from node: Add Movement Input in graph: MoveUpAndDown in object: TopDownController with description: Accessed None trying to read property Character
+[2016.12.26-10.03.59:027][162]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property Character from function: 'MoveLeftAndRight' from node: Add Movement Input in graph: MoveLeftAndRight in object: TopDownController with description: Accessed None trying to read property Character
+[2016.12.26-10.03.59:027][162]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:027][162]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:028][162]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:028][162]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: Srv Rotation Changed in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:028][162]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: Srv Rotation Changed in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:087][163]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property Character from function: 'MoveUpAndDown' from node: Add Movement Input in graph: MoveUpAndDown in object: TopDownController with description: Accessed None trying to read property Character
+[2016.12.26-10.03.59:088][163]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property Character from function: 'MoveLeftAndRight' from node: Add Movement Input in graph: MoveLeftAndRight in object: TopDownController with description: Accessed None trying to read property Character
+[2016.12.26-10.03.59:088][163]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:088][163]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:088][163]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:089][163]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: Srv Rotation Changed in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:089][163]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: Srv Rotation Changed in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:099][163]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property Character from function: 'MoveUpAndDown' from node: Add Movement Input in graph: MoveUpAndDown in object: TopDownController with description: Accessed None trying to read property Character
+[2016.12.26-10.03.59:099][163]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property Character from function: 'MoveLeftAndRight' from node: Add Movement Input in graph: MoveLeftAndRight in object: TopDownController with description: Accessed None trying to read property Character
+[2016.12.26-10.03.59:099][163]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:100][163]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:100][163]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:100][163]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: Srv Rotation Changed in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:100][163]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: Srv Rotation Changed in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:134][164]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property Character from function: 'MoveUpAndDown' from node: Add Movement Input in graph: MoveUpAndDown in object: TopDownController with description: Accessed None trying to read property Character
+[2016.12.26-10.03.59:135][164]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property Character from function: 'MoveLeftAndRight' from node: Add Movement Input in graph: MoveLeftAndRight in object: TopDownController with description: Accessed None trying to read property Character
+[2016.12.26-10.03.59:135][164]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:135][164]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:135][164]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:136][164]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: Srv Rotation Changed in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:136][164]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: Srv Rotation Changed in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:139][164]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property Character from function: 'MoveUpAndDown' from node: Add Movement Input in graph: MoveUpAndDown in object: TopDownController with description: Accessed None trying to read property Character
+[2016.12.26-10.03.59:139][164]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property Character from function: 'MoveLeftAndRight' from node: Add Movement Input in graph: MoveLeftAndRight in object: TopDownController with description: Accessed None trying to read property Character
+[2016.12.26-10.03.59:139][164]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:140][164]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:140][164]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:140][164]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: Srv Rotation Changed in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:140][164]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: Srv Rotation Changed in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:190][165]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property Character from function: 'MoveUpAndDown' from node: Add Movement Input in graph: MoveUpAndDown in object: TopDownController with description: Accessed None trying to read property Character
+[2016.12.26-10.03.59:190][165]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property Character from function: 'MoveLeftAndRight' from node: Add Movement Input in graph: MoveLeftAndRight in object: TopDownController with description: Accessed None trying to read property Character
+[2016.12.26-10.03.59:191][165]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:192][165]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:192][165]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:193][165]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: Srv Rotation Changed in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:193][165]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: Srv Rotation Changed in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:195][165]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property Character from function: 'MoveUpAndDown' from node: Add Movement Input in graph: MoveUpAndDown in object: TopDownController with description: Accessed None trying to read property Character
+[2016.12.26-10.03.59:196][165]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property Character from function: 'MoveLeftAndRight' from node: Add Movement Input in graph: MoveLeftAndRight in object: TopDownController with description: Accessed None trying to read property Character
+[2016.12.26-10.03.59:198][165]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:198][165]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:199][165]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:199][165]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: Srv Rotation Changed in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:199][165]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: Srv Rotation Changed in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:244][166]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property Character from function: 'MoveUpAndDown' from node: Add Movement Input in graph: MoveUpAndDown in object: TopDownController with description: Accessed None trying to read property Character
+[2016.12.26-10.03.59:244][166]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property Character from function: 'MoveLeftAndRight' from node: Add Movement Input in graph: MoveLeftAndRight in object: TopDownController with description: Accessed None trying to read property Character
+[2016.12.26-10.03.59:244][166]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:244][166]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:245][166]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:245][166]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: Srv Rotation Changed in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:245][166]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: Srv Rotation Changed in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:247][166]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property Character from function: 'MoveUpAndDown' from node: Add Movement Input in graph: MoveUpAndDown in object: TopDownController with description: Accessed None trying to read property Character
+[2016.12.26-10.03.59:247][166]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property Character from function: 'MoveLeftAndRight' from node: Add Movement Input in graph: MoveLeftAndRight in object: TopDownController with description: Accessed None trying to read property Character
+[2016.12.26-10.03.59:248][166]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:248][166]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:248][166]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:248][166]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: Srv Rotation Changed in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:248][166]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: Srv Rotation Changed in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:300][167]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property Character from function: 'MoveUpAndDown' from node: Add Movement Input in graph: MoveUpAndDown in object: TopDownController with description: Accessed None trying to read property Character
+[2016.12.26-10.03.59:300][167]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property Character from function: 'MoveLeftAndRight' from node: Add Movement Input in graph: MoveLeftAndRight in object: TopDownController with description: Accessed None trying to read property Character
+[2016.12.26-10.03.59:300][167]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:300][167]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:301][167]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:301][167]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: Srv Rotation Changed in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:301][167]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: Srv Rotation Changed in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:303][167]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property Character from function: 'MoveUpAndDown' from node: Add Movement Input in graph: MoveUpAndDown in object: TopDownController with description: Accessed None trying to read property Character
+[2016.12.26-10.03.59:303][167]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property Character from function: 'MoveLeftAndRight' from node: Add Movement Input in graph: MoveLeftAndRight in object: TopDownController with description: Accessed None trying to read property Character
+[2016.12.26-10.03.59:303][167]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:304][167]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:304][167]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:304][167]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: Srv Rotation Changed in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:304][167]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: Srv Rotation Changed in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:367][168]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property Character from function: 'MoveUpAndDown' from node: Add Movement Input in graph: MoveUpAndDown in object: TopDownController with description: Accessed None trying to read property Character
+[2016.12.26-10.03.59:367][168]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property Character from function: 'MoveLeftAndRight' from node: Add Movement Input in graph: MoveLeftAndRight in object: TopDownController with description: Accessed None trying to read property Character
+[2016.12.26-10.03.59:368][168]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:368][168]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:368][168]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:368][168]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: Srv Rotation Changed in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:369][168]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: Srv Rotation Changed in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:370][168]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property Character from function: 'MoveUpAndDown' from node: Add Movement Input in graph: MoveUpAndDown in object: TopDownController with description: Accessed None trying to read property Character
+[2016.12.26-10.03.59:370][168]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property Character from function: 'MoveLeftAndRight' from node: Add Movement Input in graph: MoveLeftAndRight in object: TopDownController with description: Accessed None trying to read property Character
+[2016.12.26-10.03.59:371][168]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:371][168]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:371][168]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:372][168]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: Srv Rotation Changed in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:372][168]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: Srv Rotation Changed in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:435][169]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property Character from function: 'MoveUpAndDown' from node: Add Movement Input in graph: MoveUpAndDown in object: TopDownController with description: Accessed None trying to read property Character
+[2016.12.26-10.03.59:435][169]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property Character from function: 'MoveLeftAndRight' from node: Add Movement Input in graph: MoveLeftAndRight in object: TopDownController with description: Accessed None trying to read property Character
+[2016.12.26-10.03.59:435][169]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:436][169]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:436][169]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:436][169]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: Srv Rotation Changed in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:436][169]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: Srv Rotation Changed in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:438][169]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property Character from function: 'MoveUpAndDown' from node: Add Movement Input in graph: MoveUpAndDown in object: TopDownController with description: Accessed None trying to read property Character
+[2016.12.26-10.03.59:438][169]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property Character from function: 'MoveLeftAndRight' from node: Add Movement Input in graph: MoveLeftAndRight in object: TopDownController with description: Accessed None trying to read property Character
+[2016.12.26-10.03.59:438][169]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:439][169]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:439][169]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:439][169]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: Srv Rotation Changed in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:439][169]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: Srv Rotation Changed in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:501][170]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property Character from function: 'MoveUpAndDown' from node: Add Movement Input in graph: MoveUpAndDown in object: TopDownController with description: Accessed None trying to read property Character
+[2016.12.26-10.03.59:502][170]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property Character from function: 'MoveLeftAndRight' from node: Add Movement Input in graph: MoveLeftAndRight in object: TopDownController with description: Accessed None trying to read property Character
+[2016.12.26-10.03.59:502][170]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:502][170]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:502][170]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:503][170]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: Srv Rotation Changed in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:503][170]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: Srv Rotation Changed in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:505][170]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property Character from function: 'MoveUpAndDown' from node: Add Movement Input in graph: MoveUpAndDown in object: TopDownController with description: Accessed None trying to read property Character
+[2016.12.26-10.03.59:505][170]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property Character from function: 'MoveLeftAndRight' from node: Add Movement Input in graph: MoveLeftAndRight in object: TopDownController with description: Accessed None trying to read property Character
+[2016.12.26-10.03.59:505][170]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:505][170]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:506][170]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:506][170]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: Srv Rotation Changed in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:506][170]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: Srv Rotation Changed in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:567][171]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property Character from function: 'MoveUpAndDown' from node: Add Movement Input in graph: MoveUpAndDown in object: TopDownController with description: Accessed None trying to read property Character
+[2016.12.26-10.03.59:567][171]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property Character from function: 'MoveLeftAndRight' from node: Add Movement Input in graph: MoveLeftAndRight in object: TopDownController with description: Accessed None trying to read property Character
+[2016.12.26-10.03.59:567][171]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:568][171]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:568][171]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:568][171]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: Srv Rotation Changed in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:568][171]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: Srv Rotation Changed in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:570][171]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property Character from function: 'MoveUpAndDown' from node: Add Movement Input in graph: MoveUpAndDown in object: TopDownController with description: Accessed None trying to read property Character
+[2016.12.26-10.03.59:570][171]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property Character from function: 'MoveLeftAndRight' from node: Add Movement Input in graph: MoveLeftAndRight in object: TopDownController with description: Accessed None trying to read property Character
+[2016.12.26-10.03.59:570][171]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:571][171]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:571][171]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: SetActorRotation in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:571][171]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: Srv Rotation Changed in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.03.59:571][171]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue from function: 'RotateCharacter' from node: Srv Rotation Changed in graph: RotateCharacter in object: TopDownController with description: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+[2016.12.26-10.04.39:577][778]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2016.12.26-10.04.39:660][778]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2016.12.26-10.04.39:695][778]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:54082, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: None, Owner: None
+[2016.12.26-10.04.39:695][778]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:54082, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: None, Owner: None, Channels: 2, Time: 2016.12.26-10.04.39
+[2016.12.26-10.04.39:695][778]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:54082, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: None, Owner: None
+[2016.12.26-10.04.39:695][778]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:54081, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: None, Owner: None
+[2016.12.26-10.04.39:695][778]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:54081, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: None, Owner: None, Channels: 2, Time: 2016.12.26-10.04.39
+[2016.12.26-10.04.39:695][778]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:54081, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: None, Owner: None
+[2016.12.26-10.04.39:695][778]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_6, IsServer: NO, PC: None, Owner: None
+[2016.12.26-10.04.39:695][778]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_6, IsServer: NO, PC: None, Owner: None, Channels: 2, Time: 2016.12.26-10.04.39
+[2016.12.26-10.04.39:695][778]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_6, IsServer: NO, PC: None, Owner: None
+[2016.12.26-10.04.39:695][778]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_5, IsServer: NO, PC: None, Owner: None
+[2016.12.26-10.04.39:695][778]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_5, IsServer: NO, PC: None, Owner: None, Channels: 2, Time: 2016.12.26-10.04.39
+[2016.12.26-10.04.39:695][778]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_5, IsServer: NO, PC: None, Owner: None
+[2016.12.26-10.04.39:699][778]LogExit: GameNetDriver None shut down
+[2016.12.26-10.04.39:699][778]LogExit: GameNetDriver None shut down
+[2016.12.26-10.04.39:700][778]LogExit: GameNetDriver None shut down
+[2016.12.26-10.04.42:514][888]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.12.26-10.04.42:834][889]Cmd: QUIT_EDITOR
+[2016.12.26-10.04.43:096][889]LogExit: Preparing to exit.
+[2016.12.26-10.04.43:582][889]LogExit: Editor shut down
+[2016.12.26-10.04.43:583][889]LogExit: Transaction tracking system shut down
+[2016.12.26-10.04.43:763][889]LogObj: Freed 0b from 0 cluster array pools.
+[2016.12.26-10.04.43:763][889]LogExit: Object subsystem successfully closed.
+[2016.12.26-10.04.43:773][889]LogD3D11RHI: Shutdown
+[2016.12.26-10.04.43:773][889]LogD3D11RHI: CleanupD3DDevice
+[2016.12.26-10.04.43:911][889]LogD3D11RHI: ~FD3D11DynamicRHI
+[2016.12.26-10.04.43:952][889]LogModuleManager: Shutting down and abandoning module BlueprintGraph (236)
+[2016.12.26-10.04.43:952][889]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (235)
+[2016.12.26-10.04.43:962][889]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (233)
+[2016.12.26-10.04.43:962][889]LogModuleManager: Shutting down and abandoning module CrashTracker (232)
+[2016.12.26-10.04.43:962][889]LogModuleManager: Shutting down and abandoning module SceneOutliner (231)
+[2016.12.26-10.04.43:962][889]LogModuleManager: Shutting down and abandoning module WidgetCarousel (230)
+[2016.12.26-10.04.43:962][889]LogModuleManager: Shutting down and abandoning module AddContentDialog (229)
+[2016.12.26-10.04.43:967][889]LogDirectoryWatcher: A directory notification for 'C:/Program Files (x86)/Epic Games/4.13/FeaturePacks/' was aborted.
+[2016.12.26-10.04.43:981][889]LogModuleManager: Shutting down and abandoning module GameplayTags (228)
+[2016.12.26-10.04.43:981][889]LogModuleManager: Shutting down and abandoning module EditorWidgets (227)
+[2016.12.26-10.04.43:981][889]LogModuleManager: Shutting down and abandoning module CollectionManager (226)
+[2016.12.26-10.04.43:981][889]LogDirectoryWatcher: A directory notification for 'D:/UnrealProjects/PrzetrwajZime/Content/Collections/' was aborted.
+[2016.12.26-10.04.43:981][889]LogDirectoryWatcher: A directory notification for 'D:/UnrealProjects/PrzetrwajZime/Content/Developers/Tomek/Collections/' was aborted.
+[2016.12.26-10.04.43:981][889]LogDirectoryWatcher: A directory notification for 'D:/UnrealProjects/PrzetrwajZime/Saved/Collections/' was aborted.
+[2016.12.26-10.04.43:981][889]LogModuleManager: Shutting down and abandoning module StatsViewer (225)
+[2016.12.26-10.04.43:981][889]LogModuleManager: Shutting down and abandoning module FoliageEdit (224)
+[2016.12.26-10.04.43:981][889]LogModuleManager: Shutting down and abandoning module LandscapeEditor (223)
+[2016.12.26-10.04.43:981][889]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (222)
+[2016.12.26-10.04.43:981][889]LogModuleManager: Shutting down and abandoning module ActorPickerMode (221)
+[2016.12.26-10.04.43:982][889]LogModuleManager: Shutting down and abandoning module GeometryMode (220)
+[2016.12.26-10.04.43:982][889]LogModuleManager: Shutting down and abandoning module TextureAlignMode (219)
+[2016.12.26-10.04.43:982][889]LogModuleManager: Shutting down and abandoning module BspMode (218)
+[2016.12.26-10.04.43:982][889]LogModuleManager: Shutting down and abandoning module HardwareSurvey (217)
+[2016.12.26-10.04.43:982][889]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (216)
+[2016.12.26-10.04.43:982][889]LogModuleManager: Shutting down and abandoning module SequenceRecorder (215)
+[2016.12.26-10.04.43:982][889]LogModuleManager: Shutting down and abandoning module AutomationWorker (214)
+[2016.12.26-10.04.43:982][889]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (213)
+[2016.12.26-10.04.43:982][889]LogModuleManager: Shutting down and abandoning module PlacementMode (212)
+[2016.12.26-10.04.43:982][889]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (211)
+[2016.12.26-10.04.43:982][889]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (210)
+[2016.12.26-10.04.43:982][889]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (209)
+[2016.12.26-10.04.43:982][889]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (208)
+[2016.12.26-10.04.43:982][889]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (207)
+[2016.12.26-10.04.43:982][889]LogModuleManager: Shutting down and abandoning module Media (206)
+[2016.12.26-10.04.43:982][889]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (205)
+[2016.12.26-10.04.43:982][889]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (204)
+[2016.12.26-10.04.43:982][889]LogModuleManager: Shutting down and abandoning module CharacterAI (203)
+[2016.12.26-10.04.43:982][889]LogModuleManager: Shutting down and abandoning module SmartSnapping (202)
+[2016.12.26-10.04.43:982][889]LogModuleManager: Shutting down and abandoning module SessionServices (201)
+[2016.12.26-10.04.43:982][889]LogModuleManager: Shutting down and abandoning module ViewportSnapping (200)
+[2016.12.26-10.04.43:982][889]LogModuleManager: Shutting down and abandoning module ViewportInteraction (199)
+[2016.12.26-10.04.43:982][889]LogModuleManager: Shutting down and abandoning module LogVisualizer (198)
+[2016.12.26-10.04.43:982][889]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (197)
+[2016.12.26-10.04.43:982][889]LogModuleManager: Shutting down and abandoning module IntroTutorials (196)
+[2016.12.26-10.04.43:982][889]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (195)
+[2016.12.26-10.04.43:982][889]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (194)
+[2016.12.26-10.04.43:982][889]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (193)
+[2016.12.26-10.04.43:982][889]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (192)
+[2016.12.26-10.04.44:376][889]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (191)
+[2016.12.26-10.04.44:376][889]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (190)
+[2016.12.26-10.04.44:376][889]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (189)
+[2016.12.26-10.04.44:376][889]LogModuleManager: Shutting down and abandoning module NiagaraEditor (188)
+[2016.12.26-10.04.44:376][889]LogModuleManager: Shutting down and abandoning module MergeActors (187)
+[2016.12.26-10.04.44:376][889]LogModuleManager: Shutting down and abandoning module SizeMap (186)
+[2016.12.26-10.04.44:376][889]LogModuleManager: Shutting down and abandoning module TreeMap (185)
+[2016.12.26-10.04.44:376][889]LogModuleManager: Shutting down and abandoning module ReferenceViewer (184)
+[2016.12.26-10.04.44:376][889]LogModuleManager: Shutting down and abandoning module LocalizationService (183)
+[2016.12.26-10.04.44:376][889]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (182)
+[2016.12.26-10.04.44:376][889]LogModuleManager: Shutting down and abandoning module HardwareTargeting (181)
+[2016.12.26-10.04.44:376][889]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (180)
+[2016.12.26-10.04.44:376][889]LogModuleManager: Shutting down and abandoning module UndoHistory (179)
+[2016.12.26-10.04.44:376][889]LogModuleManager: Shutting down and abandoning module UserFeedback (178)
+[2016.12.26-10.04.44:377][889]LogModuleManager: Shutting down and abandoning module XmlParser (177)
+[2016.12.26-10.04.44:377][889]LogModuleManager: Shutting down and abandoning module Blutility (176)
+[2016.12.26-10.04.44:377][889]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (175)
+[2016.12.26-10.04.44:377][889]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (174)
+[2016.12.26-10.04.44:377][889]LogModuleManager: Shutting down and abandoning module InputBindingEditor (173)
+[2016.12.26-10.04.44:377][889]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (172)
+[2016.12.26-10.04.44:377][889]LogModuleManager: Shutting down and abandoning module SettingsEditor (171)
+[2016.12.26-10.04.44:377][889]LogModuleManager: Shutting down and abandoning module ProjectLauncher (170)
+[2016.12.26-10.04.44:377][889]LogModuleManager: Shutting down and abandoning module SessionFrontend (169)
+[2016.12.26-10.04.44:377][889]LogModuleManager: Shutting down and abandoning module ProfilerClient (168)
+[2016.12.26-10.04.44:377][889]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (167)
+[2016.12.26-10.04.44:377][889]LogModuleManager: Shutting down and abandoning module DeviceManager (166)
+[2016.12.26-10.04.44:418][889]LogModuleManager: Shutting down and abandoning module AutomationController (165)
+[2016.12.26-10.04.44:418][889]LogModuleManager: Shutting down and abandoning module AutomationWindow (164)
+[2016.12.26-10.04.44:418][889]LogModuleManager: Shutting down and abandoning module Layers (163)
+[2016.12.26-10.04.44:418][889]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (162)
+[2016.12.26-10.04.44:418][889]LogModuleManager: Shutting down and abandoning module DetailCustomizations (161)
+[2016.12.26-10.04.44:418][889]LogModuleManager: Shutting down and abandoning module PackagesDialog (160)
+[2016.12.26-10.04.44:418][889]LogModuleManager: Shutting down and abandoning module AnimGraph (159)
+[2016.12.26-10.04.44:418][889]LogModuleManager: Shutting down and abandoning module Persona (158)
+[2016.12.26-10.04.44:418][889]LogModuleManager: Shutting down and abandoning module Kismet (157)
+[2016.12.26-10.04.44:425][889]LogModuleManager: Shutting down and abandoning module GraphEditor (156)
+[2016.12.26-10.04.44:425][889]LogModuleManager: Shutting down and abandoning module ClassViewer (155)
+[2016.12.26-10.04.44:425][889]LogModuleManager: Shutting down and abandoning module Toolbox (154)
+[2016.12.26-10.04.44:425][889]LogModuleManager: Shutting down and abandoning module ModuleUI (153)
+[2016.12.26-10.04.44:425][889]LogModuleManager: Shutting down and abandoning module MovieSceneTools (152)
+[2016.12.26-10.04.44:425][889]LogModuleManager: Shutting down and abandoning module OutputLog (151)
+[2016.12.26-10.04.44:425][889]LogModuleManager: Shutting down and abandoning module GammaUI (150)
+[2016.12.26-10.04.44:425][889]LogModuleManager: Shutting down and abandoning module Documentation (149)
+[2016.12.26-10.04.44:425][889]LogModuleManager: Shutting down and abandoning module Niagara (148)
+[2016.12.26-10.04.44:425][889]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (147)
+[2016.12.26-10.04.44:425][889]LogModuleManager: Shutting down and abandoning module AnalyticsET (146)
+[2016.12.26-10.04.44:425][889]LogModuleManager: Shutting down and abandoning module PortalServices (145)
+[2016.12.26-10.04.44:425][889]LogModuleManager: Shutting down and abandoning module PortalRpc (144)
+[2016.12.26-10.04.44:425][889]LogModuleManager: Shutting down and abandoning module MessagingRpc (143)
+[2016.12.26-10.04.44:425][889]LogModuleManager: Shutting down and abandoning module GameplayDebugger (142)
+[2016.12.26-10.04.44:425][889]LogModuleManager: Shutting down and abandoning module AITestSuite (141)
+[2016.12.26-10.04.44:425][889]LogModuleManager: Shutting down and abandoning module AIModule (140)
+[2016.12.26-10.04.44:425][889]LogModuleManager: Shutting down and abandoning module ProfilerService (139)
+[2016.12.26-10.04.44:567][889]LogModuleManager: Shutting down and abandoning module TaskGraph (138)
+[2016.12.26-10.04.44:567][889]LogModuleManager: Shutting down and abandoning module SlateRemote (137)
+[2016.12.26-10.04.44:567][889]LogModuleManager: Shutting down and abandoning module SteamVRController (136)
+[2016.12.26-10.04.44:567][889]LogModuleManager: Shutting down and abandoning module SteamVR (135)
+[2016.12.26-10.04.44:567][889]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (134)
+[2016.12.26-10.04.44:567][889]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (133)
+[2016.12.26-10.04.44:567][889]LogModuleManager: Shutting down and abandoning module OculusLibrary (132)
+[2016.12.26-10.04.44:567][889]LogModuleManager: Shutting down and abandoning module OculusInput (131)
+[2016.12.26-10.04.44:567][889]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (130)
+[2016.12.26-10.04.44:567][889]LogModuleManager: Shutting down and abandoning module CableComponent (129)
+[2016.12.26-10.04.44:567][889]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (128)
+[2016.12.26-10.04.44:567][889]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (126)
+[2016.12.26-10.04.44:567][889]LogModuleManager: Shutting down and abandoning module HTML5Networking (125)
+[2016.12.26-10.04.44:567][889]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (124)
+[2016.12.26-10.04.44:567][889]LogModuleManager: Shutting down and abandoning module GeometryCache (123)
+[2016.12.26-10.04.44:567][889]LogModuleManager: Shutting down and abandoning module AlembicLibrary (122)
+[2016.12.26-10.04.44:567][889]LogModuleManager: Shutting down and abandoning module AlembicImporter (121)
+[2016.12.26-10.04.44:567][889]LogModuleManager: Shutting down and abandoning module SuperSearch (120)
+[2016.12.26-10.04.44:567][889]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (119)
+[2016.12.26-10.04.44:567][889]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (118)
+[2016.12.26-10.04.44:567][889]LogModuleManager: Shutting down and abandoning module PluginBrowser (117)
+[2016.12.26-10.04.44:567][889]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (116)
+[2016.12.26-10.04.44:567][889]LogModuleManager: Shutting down and abandoning module EpicSurvey (115)
+[2016.12.26-10.04.44:592][889]LogModuleManager: Shutting down and abandoning module DesktopPlatform (114)
+[2016.12.26-10.04.44:592][889]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (113)
+[2016.12.26-10.04.44:593][889]LogModuleManager: Shutting down and abandoning module UObjectPlugin (112)
+[2016.12.26-10.04.44:593][889]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (111)
+[2016.12.26-10.04.44:593][889]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (110)
+[2016.12.26-10.04.44:593][889]LogModuleManager: Shutting down and abandoning module SourceControl (109)
+[2016.12.26-10.04.44:593][889]LogModuleManager: Shutting down and abandoning module GitSourceControl (108)
+[2016.12.26-10.04.44:593][889]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (107)
+[2016.12.26-10.04.44:593][889]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (106)
+[2016.12.26-10.04.44:593][889]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (105)
+[2016.12.26-10.04.44:593][889]LogModuleManager: Shutting down and abandoning module MeshPaint (104)
+[2016.12.26-10.04.44:593][889]LogModuleManager: Shutting down and abandoning module FbxAutomationBuilderModule (103)
+[2016.12.26-10.04.44:593][889]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (102)
+[2016.12.26-10.04.44:593][889]LogModuleManager: Shutting down and abandoning module HotReload (101)
+[2016.12.26-10.04.44:593][889]LogModuleManager: Shutting down and abandoning module MainFrame (100)
+[2016.12.26-10.04.44:593][889]LogModuleManager: Shutting down and abandoning module LevelEditor (99)
+[2016.12.26-10.04.44:594][889]LogModuleManager: Shutting down and abandoning module ContentBrowser (98)
+[2016.12.26-10.04.44:595][889]LogModuleManager: Shutting down and abandoning module Paper2DEditor (97)
+[2016.12.26-10.04.44:595][889]LogModuleManager: Shutting down and abandoning module UdpMessaging (96)
+[2016.12.26-10.04.44:696][889]LogModuleManager: Shutting down and abandoning module TcpMessaging (95)
+[2016.12.26-10.04.44:797][889]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (94)
+[2016.12.26-10.04.44:797][889]LogModuleManager: Shutting down and abandoning module Paper2D (93)
+[2016.12.26-10.04.44:797][889]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (92)
+[2016.12.26-10.04.44:797][889]LogModuleManager: Shutting down and abandoning module WmfMedia (91)
+[2016.12.26-10.04.44:797][889]LogModuleManager: Shutting down and abandoning module MediaAssets (90)
+[2016.12.26-10.04.44:797][889]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (89)
+[2016.12.26-10.04.44:797][889]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (88)
+[2016.12.26-10.04.44:797][889]LogModuleManager: Shutting down and abandoning module VREditor (87)
+[2016.12.26-10.04.44:797][889]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (86)
+[2016.12.26-10.04.44:797][889]LogModuleManager: Shutting down and abandoning module PropertyEditor (85)
+[2016.12.26-10.04.44:797][889]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (84)
+[2016.12.26-10.04.44:797][889]LogModuleManager: Shutting down and abandoning module FunctionalTesting (83)
+[2016.12.26-10.04.44:797][889]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (82)
+[2016.12.26-10.04.44:797][889]LogModuleManager: Shutting down and abandoning module Sequencer (81)
+[2016.12.26-10.04.44:797][889]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (80)
+[2016.12.26-10.04.44:797][889]LogModuleManager: Shutting down and abandoning module MessageLog (79)
+[2016.12.26-10.04.44:797][889]LogModuleManager: Shutting down and abandoning module AssetTools (78)
+[2016.12.26-10.04.44:797][889]LogModuleManager: Shutting down and abandoning module UMGEditor (77)
+[2016.12.26-10.04.44:797][889]LogModuleManager: Shutting down and abandoning module UMG (76)
+[2016.12.26-10.04.44:797][889]LogModuleManager: Shutting down and abandoning module SlateReflector (75)
+[2016.12.26-10.04.44:797][889]LogModuleManager: Shutting down and abandoning module Slate (74)
+[2016.12.26-10.04.44:797][889]LogModuleManager: Shutting down and abandoning module EditorStyle (73)
+[2016.12.26-10.04.44:800][889]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (72)
+[2016.12.26-10.04.44:800][889]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (71)
+[2016.12.26-10.04.44:800][889]LogModuleManager: Shutting down and abandoning module XAudio2 (70)
+[2016.12.26-10.04.44:800][889]LogModuleManager: Shutting down and abandoning module Networking (68)
+[2016.12.26-10.04.44:800][889]LogModuleManager: Shutting down and abandoning module Core (67)
+[2016.12.26-10.04.44:800][889]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (66)
+[2016.12.26-10.04.44:800][889]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2016.12.26-10.04.44:800][889]LogDirectoryWatcher: A directory notification for 'D:/UnrealProjects/PrzetrwajZime/Content/' was aborted.
+[2016.12.26-10.04.44:800][889]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2016.12.26-10.04.44:801][889]LogModuleManager: Shutting down and abandoning module AssetRegistry (65)
+[2016.12.26-10.04.45:021][889]LogModuleManager: Shutting down and abandoning module KismetCompiler (64)
+[2016.12.26-10.04.45:021][889]LogModuleManager: Shutting down and abandoning module PhysXFormats (63)
+[2016.12.26-10.04.45:021][889]LogModuleManager: Shutting down and abandoning module MeshUtilities (62)
+[2016.12.26-10.04.45:021][889]LogModuleManager: Shutting down and abandoning module DerivedDataCache (61)
+[2016.12.26-10.04.45:049][889]LogDerivedDataCache: Shutdown
+[2016.12.26-10.04.45:049][889]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (60)
+[2016.12.26-10.04.45:049][889]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (59)
+[2016.12.26-10.04.45:049][889]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (58)
+[2016.12.26-10.04.45:049][889]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (57)
+[2016.12.26-10.04.45:049][889]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (56)
+[2016.12.26-10.04.45:049][889]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (55)
+[2016.12.26-10.04.45:049][889]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (54)
+[2016.12.26-10.04.45:049][889]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (53)
+[2016.12.26-10.04.45:049][889]LogModuleManager: Shutting down and abandoning module ImageWrapper (52)
+[2016.12.26-10.04.45:049][889]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (51)
+[2016.12.26-10.04.45:050][889]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (50)
+[2016.12.26-10.04.45:050][889]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (49)
+[2016.12.26-10.04.45:050][889]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (48)
+[2016.12.26-10.04.45:050][889]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (47)
+[2016.12.26-10.04.45:050][889]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (46)
+[2016.12.26-10.04.45:050][889]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (45)
+[2016.12.26-10.04.45:050][889]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (44)
+[2016.12.26-10.04.45:050][889]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (43)
+[2016.12.26-10.04.45:050][889]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (42)
+[2016.12.26-10.04.45:050][889]LogModuleManager: Shutting down and abandoning module Messaging (41)
+[2016.12.26-10.04.45:050][889]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (40)
+[2016.12.26-10.04.45:050][889]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (39)
+[2016.12.26-10.04.45:050][889]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (38)
+[2016.12.26-10.04.45:050][889]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (37)
+[2016.12.26-10.04.45:050][889]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (36)
+[2016.12.26-10.04.45:050][889]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (35)
+[2016.12.26-10.04.45:050][889]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (34)
+[2016.12.26-10.04.45:050][889]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (33)
+[2016.12.26-10.04.45:050][889]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (32)
+[2016.12.26-10.04.45:050][889]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (31)
+[2016.12.26-10.04.45:050][889]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (30)
+[2016.12.26-10.04.45:050][889]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (29)
+[2016.12.26-10.04.45:050][889]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (28)
+[2016.12.26-10.04.45:050][889]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (27)
+[2016.12.26-10.04.45:050][889]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (26)
+[2016.12.26-10.04.45:050][889]LogModuleManager: Shutting down and abandoning module TargetPlatform (25)
+[2016.12.26-10.04.45:050][889]LogModuleManager: Shutting down and abandoning module InputCore (24)
+[2016.12.26-10.04.45:050][889]LogModuleManager: Shutting down and abandoning module Settings (23)
+[2016.12.26-10.04.45:050][889]LogModuleManager: Shutting down and abandoning module OculusRift (22)
+[2016.12.26-10.04.45:050][889]LogModuleManager: Shutting down and abandoning module GearVR (21)
+[2016.12.26-10.04.45:050][889]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (20)
+[2016.12.26-10.04.45:050][889]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (19)
+[2016.12.26-10.04.45:050][889]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (17)
+[2016.12.26-10.04.45:050][889]LogOnline:Display: Unloading online subsystem: NULL
+[2016.12.26-10.04.45:050][889]LogModuleManager: Shutting down and abandoning module HTTP (16)
+[2016.12.26-10.04.45:050][889]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2016.12.26-10.04.45:050][889]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6A84BF70-42DE-5628-441F-C089DF1461B9%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.13.1-3142249%2B%2B%2BUE4%2BRelease-4.13&UserID=c305158b486a844efdae7a9c0d04133f%7C548c375b3d2a4197b90e4e2495441e07%7C3ad3f71c-3df7-471d-9c86-9c4f98e0c74e&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2016.12.26-10.04.45:050][889]LogHttp:Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2016.12.26-10.04.45:551][889]LogHttp:Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2016.12.26-10.04.46:052][889]LogHttp:Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2016.12.26-10.04.46:582][889]LogModuleManager: Shutting down and abandoning module XMPP (15)
+[2016.12.26-10.04.46:583][889]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2016.12.26-10.04.46:583][889]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2016.12.26-10.04.46:583][889]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2016.12.26-10.04.46:583][889]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2016.12.26-10.04.46:585][889]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2016.12.26-10.04.46:585][889]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2016.12.26-10.04.46:585][889]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2016.12.26-10.04.46:585][889]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2016.12.26-10.04.46:585][889]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2016.12.26-10.04.46:585][889]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2016.12.26-10.04.46:585][889]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2016.12.26-10.04.46:585][889]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2016.12.26-10.04.46:585][889]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2016.12.26-10.04.46:585][889]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2016.12.26-10.04.46:587][889]LogExit: Exiting.
+[2016.12.26-10.04.46:588][889]Log file closed, 12/26/16 12:04:46
